@@ -331,4 +331,3 @@ kube_pod_status_ready{namespace="default",condition="true"}
 ![[K8s-21.png]]
 
 ---
-###### Work done by: Louay Badri- Mohamed Aziz Bellaaj - Salma Ghabri
